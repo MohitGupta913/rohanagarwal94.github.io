@@ -2,28 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://rohanagarwal94.com/tags/android/</loc>
+        <loc>https://rohanagarwal94.com/tags/android/</loc>
         <lastmod>2016-07-17T08:22:12.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://rohanagarwal94.com/tags/JSON/</loc>
+        <loc>https://rohanagarwal94.com/tags/JSON/</loc>
         <lastmod>2016-07-17T08:22:12.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://rohanagarwal94.com/tags/Google-Maps/</loc>
+        <loc>https://rohanagarwal94.com/tags/Google-Maps/</loc>
         <lastmod>2016-07-17T08:22:12.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://rohanagarwal94.com/tags/Google-Utils-Library/</loc>
+        <loc>https://rohanagarwal94.com/tags/Google-Utils-Library/</loc>
         <lastmod>2016-07-17T08:22:12.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
